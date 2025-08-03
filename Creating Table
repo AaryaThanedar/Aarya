@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color:#a883ad;">
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Roll no</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Aarya</td>
+            <td>67</td>
+            <td>Kothrud</td>
+        </tr>
+        <tr>
+            <td>Anushka</td>
+            <td>58</td>
+            <td>Kothrud</td>
+        </tr>
+        <tr>
+            <td>Aditi</td>
+            <td>61</td>
+            <td>Nanded city</td>
+        </tr>
+    </table>
+</body>
+</html>
