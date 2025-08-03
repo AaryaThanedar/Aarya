@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+
+    <h1>My Favorite Images</h1>
+
+    <h3>Sunset</h3>
+    <img src="D:\HTML Programs\audio\WhatsApp Image 2025-08-03 at 11.56.07_146c0559.jpg" alt="description" width="500" height="250">
+
+
+    <h3>landscape</h3>
+   <img src="D:\HTML Programs\audio\WhatsApp Image 2025-08-03 at 11.58.28_e2eafafb.jpg" alt="description" width="500" height="250">
+
+
+</body>
+</html>
